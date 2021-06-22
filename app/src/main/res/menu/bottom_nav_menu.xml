@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_characters"
+        android:icon="@drawable/ic_outline_account_circle_24"
+        android:title="@string/title_characters"
+        />
+
+    <item
+        android:id="@+id/navigation_locations"
+        android:icon="@drawable/ic_location"
+        android:title="@string/title_locations"
+        />
+
+    <item
+        android:id="@+id/navigation_episodes"
+        android:icon="@drawable/ic_episode"
+        android:title="@string/title_episodes"
+        />
+</menu>
